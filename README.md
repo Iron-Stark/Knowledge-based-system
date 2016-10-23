@@ -1,1 +1,2 @@
 # Knowledge-based-system
+Knowledge management system refers to using and managing the knowlege and information of an organization. It is an approach to achieving objectives of an organization by making the best use of knowledge. Here the organization under consideration is Rossmann Drug stores. Using their store, promotion and competitor data the presented model predicts 6 weeks of daily sales for their 1,115 stores located in Germany.
